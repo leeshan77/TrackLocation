@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Track\nLocation</string>
+    <string name="google_maps_key">AIzaSyA_UI95ORSmik3r-eRJbM_zL9XdIPj_LaU</string>
+
+    <!-- Screen Item -->
+    <string name="list_screen">List</string>
+    <string name="track_screen">Track</string>
+    <string name="settings_screen">Settings</string>
+    <string name="details_screen">Details</string>
+
+    <string name="no_item_description">No items in the inventory.</string>
+
+</resources>
